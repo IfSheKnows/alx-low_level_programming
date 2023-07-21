@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* largets_number- will return the largest of 3 integers
+* largest_number- will return the largest of 3 integers
 * @a: 1st integer
 * @b: 2nd integer
 * @c: 3rd integer
